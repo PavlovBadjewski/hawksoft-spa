@@ -1,3 +1,7 @@
+# Hawksoft Notes
+Clone this and run npm install.  Run `npm run start` to run this application locally on localhost:3000.  The initial "login" page was just to simulate an app, there is no actual username and password.  There are a few tests written in Jest and Enzyme.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
